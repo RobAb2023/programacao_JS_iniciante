@@ -1,0 +1,7 @@
+pwd - caminho da pasta
+
+npm -v - versão node
+
+npm install console-read-write
+node for
+
